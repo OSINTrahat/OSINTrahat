@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420">
+  <rect width="920" height="420" rx="10" fill="#0d1117"/>
+  <rect x="1" y="1" width="918" height="418" rx="9" fill="none" stroke="#21262d"/>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e" xml:space="preserve">
+    <tspan x="28" y="40">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+    <tspan x="28" y="56">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+    <tspan x="28" y="72">@@@@@@@@@@@@@@@%#####%%@@@@@@@@@@@@@@@</tspan>
+    <tspan x="28" y="88">@@@@@@@@@@@@%+:.      .:=#@@@@@@@@@@@@</tspan>
+    <tspan x="28" y="104">@@@@@@@@@@@%:             +%@@@@@@@@@@</tspan>
+    <tspan x="28" y="120">@@@@@@@@@@%:               *@@@@@@@@@@</tspan>
+    <tspan x="28" y="136">@@@@@@@@@@%.  .-=++=-:..   =@@@@@@@@@@</tspan>
+    <tspan x="28" y="152">@@@@@@@@@@@* ==:::=#*=:-=+:#@@@@@@@@@@</tspan>
+    <tspan x="28" y="168">@@@@@@@@@@%#-*=-:-=**=:-=**%@@@@@@@@@@</tspan>
+    <tspan x="28" y="184">@@@@@@@@@@#==*****+******#**@@@@@@@@@@</tspan>
+    <tspan x="28" y="200">@@@@@@@@@@%+-+***=---=****+#@@@@@@@@@@</tspan>
+    <tspan x="28" y="216">@@@@@@@@@@@%#=+*=-=-==-+++%@@@@@@@@@@@</tspan>
+    <tspan x="28" y="232">@@@@@@@@@@@@@#-=+++=+*+==%@@@@@@@@@@@@</tspan>
+    <tspan x="28" y="248">@@@@@@@@@@@@#.:-:....:-=:*@@@@@@@@@@@@</tspan>
+    <tspan x="28" y="264">@@@@@@@@@@%%:  -==--==+=  =#%@@@@@@@@@</tspan>
+    <tspan x="28" y="280">@@@@@@%#+-.    .-++++*+=.   .:=*%@@@@@</tspan>
+    <tspan x="28" y="296">@@%*=:.         :+****+=        .-+%@@</tspan>
+    <tspan x="28" y="312">%*.               -+**=            .*@</tspan>
+  </text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">
+    <text x="430" y="50" fill="#58a6ff" font-weight="700">OSINTrahat</text>
+    <text x="430" y="68" fill="#8b949e">----------</text>
+    <text x="430" y="100"><tspan fill="#39d353">OS</tspan><tspan fill="#c9d1d9">:         OSINT Workstation</tspan></text>
+    <text x="430" y="122"><tspan fill="#39d353">Host</tspan><tspan fill="#c9d1d9">:       github.com/OSINTrahat</tspan></text>
+    <text x="430" y="144"><tspan fill="#39d353">Kernel</tspan><tspan fill="#c9d1d9">:     collect | verify | report</tspan></text>
+    <text x="430" y="166"><tspan fill="#39d353">Role</tspan><tspan fill="#c9d1d9">:       OSINT Expert</tspan></text>
+    <text x="430" y="188"><tspan fill="#39d353">Shell</tspan><tspan fill="#c9d1d9">:      bash</tspan></text>
+    <text x="430" y="210"><tspan fill="#39d353">CPU</tspan><tspan fill="#c9d1d9">:        OS RAHAT</tspan></text>
+    <text x="430" y="232"><tspan fill="#39d353">Packages</tspan><tspan fill="#c9d1d9">:   Sherlock, Maltego, theHarvester</tspan></text>
+    <text x="430" y="254"><tspan fill="#39d353">Languages</tspan><tspan fill="#c9d1d9">:  Python, Bash</tspan></text>
+    <text x="430" y="276"><tspan fill="#39d353">Focus</tspan><tspan fill="#c9d1d9">:      OSINT / SOCMINT</tspan></text>
+    <text x="430" y="310"><tspan fill="#39d353">Email</tspan><tspan fill="#c9d1d9">:      rajekulislampakura@gmail.com</tspan></text>
+    <text x="430" y="332"><tspan fill="#39d353">GitHub</tspan><tspan fill="#c9d1d9">:     github.com/OSINTrahat</tspan></text>
+    <text x="430" y="370" fill="#f85149">■</text>
+    <text x="448" y="370" fill="#d29922">■</text>
+    <text x="466" y="370" fill="#3fb950">■</text>
+    <text x="484" y="370" fill="#58a6ff">■</text>
+    <text x="502" y="370" fill="#a371f7">■</text>
+    <text x="520" y="370" fill="#f778ba">■</text>
+    <text x="538" y="370" fill="#8b949e">■</text>
+    <text x="556" y="370" fill="#c9d1d9">■</text>
+  </g>
+</svg>
