@@ -1,42 +1,35 @@
 <div align="center">
 
-<img src="https://rahatirtaza.tech/favicon.ico" width="56" alt="Rahat IT" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/identity-dark.svg"><img src="./assets/identity-light.svg" alt="Rahat Irtaza (pixel cat avatar), rahat.eth, web developer, web3 community since 2018" width="100%"></picture>
 
-# Rahat Irtaza
+<br>
 
-**Web developer · Web3 community since 2018**
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/boot-dark.svg"><img src="./assets/boot-light.svg" alt="whoami: web developer, web3 community since 2018, NFT contributor, Discord and Telegram moderation, AI in workflow, scam checks, cyber security training, Cisco basics" width="100%" loading="lazy"></picture>
 
-[Website](https://rahatirtaza.tech) · [X @rahatirtaza](https://x.com/rahatirtaza)
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chain-dark.svg"><img src="./assets/chain-light.svg" alt="Chain: joined Web3 2018, NFT contributor, Discord and Telegram mod, web developer, AI in workflow, scam checks" width="100%" loading="lazy"></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg"><img src="./assets/activity-light.svg" alt="Activity: web dev, web3 since 2018, NFT contributor, moderation, AI workflow, scam checks, cyber security training, Cisco basics" width="100%" loading="lazy"></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/orbit-dark.svg"><img src="./assets/orbit-light.svg" alt="Orbit: web dev, web3 since 2018, AI workflow, scam checks" width="100%" loading="lazy"></picture>
+
+<br><br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img src="./assets/stack-light.svg" alt="Stack: HTML, CSS, JavaScript, React, Next.js, Tailwind, Git, AI tools" width="680"></picture>
+
+<br><br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OSINTrahat/OSINTrahat/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/OSINTrahat/OSINTrahat/output/snake-light.svg" alt="Contribution snake" width="100%" loading="lazy"></picture>
+
+<br><br>
+
+<a href="https://rahatirtaza.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-site-dark.svg"><img src="./assets/btn-site-light.svg" alt="rahatirtaza.tech"></picture></a>&nbsp;
+<a href="https://x.com/rahatirtaza"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-x-dark.svg"><img src="./assets/btn-x-light.svg" alt="@rahatirtaza on X"></picture></a>&nbsp;
+<a href="https://x.com/rahatirtaza"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OSINTrahat/OSINTrahat/output/x-followers-dark.svg"><img src="https://raw.githubusercontent.com/OSINTrahat/OSINTrahat/output/x-followers-light.svg" alt="Followers on X"></picture></a>
 
 </div>
-
----
-
-I build clean, fast websites and have been part of Web3 communities since 2018.
-
-### What I do
-
-- **Web development**: modern, responsive sites and landing pages
-- **Web3 community**: NFT contributor, Discord & Telegram moderation
-- **AI in my workflow**: faster building, cleaner output
-- **Scam checks**: OSINT-style research on projects and links, from public sources
-- **Background**: cyber security training, Cisco networking basics
-
-### Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=10b981)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=10b981)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=10b981)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=10b981)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=10b981)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=10b981)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=10b981)
-
-<!-- Optional stats card. github-readme-stats' public Vercel instance is often rate-limited;
-     self-host it (fork anuraghazra/github-readme-stats to your own Vercel) for reliability.
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=OSINTrahat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9" />
--->
-
----
-
-<div align="center"><sub>Rahat IT · <a href="https://rahatirtaza.tech">rahatirtaza.tech</a></sub></div>

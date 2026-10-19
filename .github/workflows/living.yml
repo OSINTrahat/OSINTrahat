@@ -1,0 +1,26 @@
+# Living assets for the profile. Free; uses only GITHUB_TOKEN.
+name: living-assets
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # 1) Contribution snake in the neutral palette, light + dark
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#111111&color_dots=#e8e8e5,#bdbdba,#848482,#4a4a4a,#111111
+            dist/snake-dark.svg?color_snake=#e8e8e6&color_dots=#181819,#424242,#7a7a79,#b1b1b0,#e8e8e6
+      # 2) X follower pill (skips writing if both APIs fail)
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: mkdir -p dist && python scripts/x_followers.py && cp assets/x-followers-*.svg dist/ 2>/dev/null || true
+      # 3) Publish generated files to the 'output' branch
+      - uses: crazy-max/ghaction-github-pages@v4
+        with: {target_branch: output, build_dir: dist, keep_history: false}
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
