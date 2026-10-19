@@ -19,7 +19,7 @@ jobs:
       # 2) X follower pill (skips writing if both APIs fail)
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: mkdir -p dist && python scripts/x_followers.py && cp assets/x-followers-*.svg dist/ 2>/dev/null || true
+      - run: python scripts/x_followers.py && sudo mkdir -p dist && sudo cp assets/x-followers-*.svg dist/ || true
       # 3) Publish generated files to the 'output' branch
       - uses: crazy-max/ghaction-github-pages@v4
         with: {target_branch: output, build_dir: dist, keep_history: false}
