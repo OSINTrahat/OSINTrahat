@@ -1,5 +1,11 @@
 <div align="center">
 
+<h1>Rahat Irtaza</h1>
+
+<p>Web developer · Web3 community member since 2018 · rahat.eth</p>
+
+<p><a href="https://rahatirtaza.tech">Visit my website</a> · <a href="https://x.com/rahatirtaza">Connect on X (@rahatirtaza)</a></p>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/identity-dark.svg"><img src="./assets/identity-light.svg" alt="Rahat Irtaza (pixel cat avatar), rahat.eth, web developer, web3 community since 2018" width="100%"></picture>
 
 <br>
@@ -20,7 +26,9 @@
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img src="./assets/stack-light.svg" alt="Stack: HTML, CSS, JavaScript, React, Next.js, Tailwind, Git, AI tools" width="680"></picture>
+<h2>Stack</h2>
+
+<p>HTML · CSS · JavaScript · React · Next.js · Tailwind · Git · AI tools</p>
 
 <br><br>
 
