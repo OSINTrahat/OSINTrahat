@@ -1,0 +1,3 @@
+# The app itself uses only the Python standard library (tkinter, urllib, ssl, hmac, decimal).
+# Dev/test dependency:
+pytest>=8
