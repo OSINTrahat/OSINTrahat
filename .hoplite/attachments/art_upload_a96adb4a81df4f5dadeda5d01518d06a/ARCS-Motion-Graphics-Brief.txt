@@ -1,0 +1,150 @@
+# ARCS PrimePool Motion-Graphics Brief
+## Title: **ARCS PrimePool: 5 Things to Check Before You Lock**
+### Ready-to-paste production prompt for animator / animation AI  
+**Creator entry (independent).** Educational motion graphics—not an ARCS team product, not investment solicitation.  
+**Runtime target:** ~80–90s (approx. until VO recorded).  
+**Deliverables:** 1920×1080 · 30fps · H.264 MP4 **plus** true recomposed **9:16** (not a crop). Prefer editor project, separate VO stem, and `.srt` if feasible.
+
+---
+
+## 1. Concept
+
+Premium checklist explainer: five friction-and-safety checks **before** locking tokens in ARCS PrimePool. Calm editorial tone—mechanisms + risks, zero hype. Style: premium vector / isometric motion graphics. Label every UI-like frame **“Illustration—not live interface.”**
+
+**Campaign fit:** Accuracy/relevance to ARCS/PrimePool, originality via mechanism teaching, educational value, craft quality. Past winners’ image threads ≠ proof tutorials are unique—do not claim “first ever.”
+
+---
+
+## 2. Full voice-over (standalone — copy this block)
+
+> Before you lock tokens into ARCS PrimePool, pause. Five practical checks separate a careful deposit from a costly mistake.  
+>  
+> One—confirm the official source. Start at arcs-chain.com, then open the official PrimePool guide from ARCS channels. Bookmark the real domain. Never follow a random DM, airdrop, or look-alike site.  
+>  
+> Two—confirm network and assets. The guide requires MetaMask, ARCS tokens, ticker ARX, on Ethereum, and enough ETH for gas. The wrong network or token can cause failed transfers or loss.  
+>  
+> Three—understand Approve, then Deposit. Approval only grants a spending allowance. Deposit is a separate transaction that locks your tokens. Read every wallet prompt before you sign.  
+>  
+> Four—know the lock. According to the guide, there is no early withdrawal. Check the current lock terms before depositing.  
+>  
+> Five—read the reward terms in the official app yourself. Subtract gas from any expected return. Factor price risk and smart-contract risk. For small amounts, gas alone can exceed any reward.  
+>  
+> ARCS HQ announced PrimePool live. Always re-check current terms in the official linked app before you act. This explains how it works—not financial advice.
+
+**Pacing:** Aim for approximately 80–90 seconds with clear pauses. Timings are provisional; measure the final narration and retime scenes rather than rushing. Add a 2–3 second end hold.  
+**VO direction:** Neutral, unhurried; stress “Approve, then Deposit,” “no early withdrawal,” “not financial advice.” No sales cadence.
+
+---
+
+## 3. Scene board (8 scenes · ~0:00–1:28+)
+
+Times provisional—lock to recorded VO. Spoken text must match exactly.
+
+### S1 · Hook · 0:00–0:09
+**VO:** “Before you lock tokens into ARCS PrimePool, pause. Five practical checks separate a careful deposit from a costly mistake.”  
+**On-screen:** `ARCS PrimePool` · `5 Things to Check Before You Lock` · `Educational checklist`  
+**Visual:** Dark editorial void → isometric lock-vault schematic; five outline ticks. Soft iris wipe.  
+**Source:** [Campaign post](https://x.com/ARCS_HQ/status/2118238158785511851).
+
+### S2 · Check 1 · Official source · 0:09–0:24
+**VO:** “One—confirm the official source. Start at arcs-chain.com, then open the official PrimePool guide from ARCS channels. Bookmark the real domain. Never follow a random DM, airdrop, or look-alike site.”  
+**On-screen:** `01 · Official source` · `arcs-chain.com` · `Official guide only` · crossed-out generic “Unverified link” label; do not invent domains  
+**Visual:** Official-source card vs. collapsing generic unverified-link cards. Label schematic. Morph wipe.  
+**Sources:** [Site](https://www.arcs-chain.com/) · [Guide](https://medium.com/arcs-arx-official/how-to-use-arcs-prime-pool-cd0b96a4492a) · [Whitepaper](http://www.arcs-chain.com/whitepaper_en.pdf).
+
+### S3 · Check 2 · Network + assets + gas · 0:24–0:37
+**VO:** “Two—confirm network and assets. The guide requires MetaMask, ARCS tokens, ticker ARX, on Ethereum, and enough ETH for gas. The wrong network or token can cause failed transfers or loss.”  
+**On-screen:** `02 · Network & assets` · `Ethereum` · `ARCS (ARX)` · `ETH for gas` · `MetaMask (per guide)`  
+**Visual:** Isometric wallet + chain badge + token chips; wrong-chain chip exits red. No live balances. Soft push.  
+**Source:** [Guide](https://medium.com/arcs-arx-official/how-to-use-arcs-prime-pool-cd0b96a4492a).
+
+### S4 · Check 3 · Approve vs Deposit · 0:37–0:50
+**VO:** “Three—understand Approve, then Deposit. Approval only grants a spending allowance. Deposit is a separate transaction that locks your tokens. Read every wallet prompt before you sign.”  
+**On-screen:** `03 · Approve → Deposit` · `Approve = allowance` · `Deposit = lock` · `Read every prompt`  
+**Visual:** Two-step flowchart; generic illustrated prompts (non-branded). Label schematic. Horizontal wipe.  
+**Source:** [Guide](https://medium.com/arcs-arx-official/how-to-use-arcs-prime-pool-cd0b96a4492a).
+
+### S5 · Check 4 · Lock / no early exit · 0:50–0:59
+**VO:** “Four—know the lock. According to the guide, there is no early withdrawal. Check the current lock terms before depositing.”  
+**On-screen:** `04 · Lock period` · `No early withdrawal` · `Held until maturity`  
+**Visual:** Timeline seals; exit icon locks. No invented calendar dates. Match cut.  
+**Source:** [Guide](https://medium.com/arcs-arx-official/how-to-use-arcs-prime-pool-cd0b96a4492a).
+
+### S6 · Check 5 · Terms − costs − risks · 0:59–1:14
+**VO:** “Five—read the reward terms in the official app yourself. Subtract gas from any expected return. Factor price risk and smart-contract risk. For small amounts, gas alone can exceed any reward.”  
+**On-screen:** `05 · Terms − costs − risks` · `Verify displayed terms` · `Gas may exceed reward` · `Price risk` · `Smart-contract risk`  
+**Visual:** Abstract ledger: terms slab minus gas/risk chips. **No APR %, yields, or profit promises.** Guide’s “5%/90 days” is example only—**omit any rate.** Soft dissolve.  
+**Source:** [Guide](https://medium.com/arcs-arx-official/how-to-use-arcs-prime-pool-cd0b96a4492a).
+
+### S7 · Verify · 1:14–1:26
+**VO:** “ARCS HQ announced PrimePool live. Always re-check current terms in the official linked app before you act. This explains how it works—not financial advice.”  
+**On-screen:** `Announced live (company post)` · `Re-check official app` · `Educational · Not financial advice`  
+**Visual:** Announcement pulse → five ticks complete; disclaimer locks. No live-rate screenshots.  
+**Sources:** [Live announcement · Oct 14](https://x.com/ARCS_HQ/status/2110253015932498414) · [Site](https://www.arcs-chain.com/). Announcement ≠ independent verification of app/contract/current terms.
+
+### S8 · End card · 1:26–1:28+ (2–3s hold)
+**VO:** *(silent after final line)*  
+**On-screen:** `#ARCS` `#ARX` · `Follow @ARCS_HQ` · `Educational creator entry` · `arcs-chain.com`  
+**Visual:** Clean slate; five icons rest. Fade out. No wallet QR, deposit CTA, or prize promise.
+
+---
+
+## 4. Art direction
+
+- **Look:** Premium editorial vector + light isometric depth; precise icons; paper-like cards. Avoid neon “crypto moon” tropes, particle spam, fake charts.  
+- **Palette:** Ink `#0B0E14` · slate `#1A2230` · frost `#E8EEF7` · teal `#2EC4B6` · amber `#F4A261` · muted danger `#E76F51`.  
+- **Type:** One licensed geometric sans for titles; mono for micro-labels. Hierarchy: title > check # > body.  
+- **Safe areas:** 5% margins (16:9); 9:16 keeps type clear of platform chrome. **Recompose** 9:16—do not crop.  
+- **Audio:** Licensed bed; duck −8 to −12 dB under VO; deliver SRT (+ VO stem if feasible).
+
+---
+
+## 5. Hard do-nots
+
+No fabricated branded UI; no live APR/APY; no profit/principal guarantees; no real txs; no wallet-connect/seed phrases; no fake audits; no live token price; no ARCS-team impersonation; no fake ownership; no unverified RWA/property dilution. Stay on PrimePool mechanisms. Label schematics **Illustration—not live interface.**
+
+---
+
+## 6. Source map
+
+- Campaign: https://x.com/ARCS_HQ/status/2118238158785511851  
+- Form: https://forms.gle/8buRHdmBe79ZdgL38  
+- Site: https://www.arcs-chain.com/  
+- Whitepaper: http://www.arcs-chain.com/whitepaper_en.pdf  
+- Guide: https://medium.com/arcs-arx-official/how-to-use-arcs-prime-pool-cd0b96a4492a  
+- Announced live: https://x.com/ARCS_HQ/status/2110253015932498414  
+- TG EN: https://t.me/ARCS_ARX_EN · TG Trading: https://t.me/Arcstrading  
+
+---
+
+## 7. Production QA (video)
+
+- [ ] VO matches the complete script; measure actual duration and retime scenes  
+- [ ] Scene spoken lines match this brief exactly  
+- [ ] No rate numbers / profit / guarantee language  
+- [ ] Approve ≠ Deposit clear; “no early withdrawal” on-screen + VO  
+- [ ] Gas / price / smart-contract risk present  
+- [ ] Schematics labeled; disclaimer on end  
+- [ ] 16:9 + recomposed 9:16; music licensed; SRT (± VO stem)  
+- [ ] **Handoff:** Nobody on this brief opened the live PrimePool app or validated contracts/rates—**re-check official linked app before publish; flag unavailable—do not invent**
+
+---
+
+## 8. Campaign submission checklist (**not part of the video**)
+
+Creator posts/submits separately—this brief includes **no** post draft or submit action:
+
+- [ ] Public content: `#ARCS` `#ARX`; follow [@ARCS_HQ](https://x.com/ARCS_HQ); like + repost campaign  
+- [ ] Join https://t.me/ARCS_ARX_EN and https://t.me/Arcstrading  
+- [ ] [November form](https://forms.gle/8buRHdmBe79ZdgL38): follow Yes/No*; TG joins Yes/No*; ERC20 receive address*; fill content link (optional field—fill it)  
+- [ ] **Deadline inference:** form “last day of month 23:59 UTC+1” → **1 Dec 2026, 04:59 Asia/Dhaka** (label **inferred**, not explicit calendar date unless confirmed)  
+- [ ] Max 10 winners; no fee stated; **no guaranteed win**—never claim prizes in video  
+- [ ] Any format allowed; no stated length/language/AI ban in materials reviewed  
+
+---
+
+## 9. Animator / AI handoff
+
+Use this brief as the creative baseline and the official sources for fact-checking. Prefer clarity over spectacle. If a fact cannot be confirmed from linked official sources, **omit or flag**—never invent rates, UI, audits, or ownership. Aim top-prize craft; outcome not guaranteed.
+
+*Prepared for Luna · English production prompt · written deliverable only.*
